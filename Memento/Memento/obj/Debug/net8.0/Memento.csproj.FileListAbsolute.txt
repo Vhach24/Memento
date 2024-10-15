@@ -1,0 +1,14 @@
+D:\університет\ООП\№5\Memento\Memento\bin\Debug\net8.0\Memento.exe
+D:\університет\ООП\№5\Memento\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\університет\ООП\№5\Memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\університет\ООП\№5\Memento\Memento\bin\Debug\net8.0\Memento.dll
+D:\університет\ООП\№5\Memento\Memento\bin\Debug\net8.0\Memento.pdb
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.dll
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.pdb
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\університет\ООП\№5\Memento\Memento\obj\Debug\net8.0\ref\Memento.dll
